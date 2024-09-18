@@ -49,7 +49,7 @@ public class Main {
         // 3 -> Listar el nombre de todos los ficheros del SISTEMA ( C:/User o /Users )
         //Para este he hecho dos métodos separados, no quería meter tanto código en el main:
 
-        String ruta = ".\\";
+        String ruta = "C:\\Users";
         listaSis(ruta);
 
     }
